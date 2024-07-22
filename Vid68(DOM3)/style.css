@@ -1,0 +1,12 @@
+.box{
+    height: 34px;
+    width: 34px;
+    margin: 34px;
+    padding: 34px;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

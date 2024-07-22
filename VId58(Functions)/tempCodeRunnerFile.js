@@ -1,0 +1,1 @@
+console.log("a to the power of b is: "+result)

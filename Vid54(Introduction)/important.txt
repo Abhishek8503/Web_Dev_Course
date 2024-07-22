@@ -1,0 +1,18 @@
+Here
+
+ABOUT NPM
+
+Run below command before installing NodeJs in the Terminal -
+
+"fnm env --use-on-cd | Out-String | Invoke-Expression"
+
+Then
+
+"Set-ExecutionPolicy RemoteSigned"
+
+If you type the above command in windows powershell(Run the powershell as an administrator) then you press Y and it will help run npm and stuff. If you want it to be restrictive again then below command is used in the same manner
+
+"Set-ExecutionPolicy Restricted"
+
+You can change RemoteSigned to other options like: Restricted, AllSigned, RemoteSigned, Unrestricted 
+
